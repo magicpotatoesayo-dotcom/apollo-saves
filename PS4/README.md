@@ -134,6 +134,7 @@ has_toc: false
 | [THE LAST REMNANT Remastered](CUSA11846/) | CUSA11846 |
 | [Thief](CUSA00250/) | CUSA00250 |
 | [Tiny Tina's Wonderlands](CUSA23766/) | CUSA23766 |
+| [Vue After Free 2.0](CUSA00960/) | CUSA00960 |
 | [WARRIORS OROCHI 4](CUSA12641/) | CUSA12641 |
 | [WWE 2K23](CUSA34179/) | CUSA34179 |
 | [Yakuza: Like a Dragon](CUSA16734/) | CUSA16734 |
